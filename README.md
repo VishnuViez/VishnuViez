@@ -79,6 +79,42 @@ A Kotlin Android application for generating reusable self-promotion or job appli
 
 ## Connect With Me
 
+- LinkedIn: `https://www.linkedin.com/in/vishnuviez/`
+- Email: `vishnuviez@gmail.com`
+- Portfolio: [GitHub Portfolio Repository](https://github.com/VishnuViez/portfolio)`https://vishnuviez.github.io/portfolio/`
+
+Open to software engineering, Android development, and mobile-focused engineering opportunities.
+- Implements API request handling, JSON parsing, and image loading flow
+- Uses adapter and ViewModel classes to organize UI data
+- Demonstrates mobile networking and media-list presentation
+
+### [SelfPromo](https://github.com/VishnuViez/SelfPromo)
+
+A Kotlin Android application for generating reusable self-promotion or job application messages.
+
+**Tech stack:** Kotlin, Android SDK
+
+**Highlights:**
+- Shows Kotlin-based Android development practice
+- Focuses on a clear utility workflow for repeated job/company outreach
+- Good candidate for screenshots and a stronger README
+
+## Currently Learning & Building
+
+- Strengthening data structures and algorithms for technical interviews
+- Building Flutter projects to broaden mobile development experience
+- Learning Spring Boot and backend development fundamentals
+- Improving full-stack and cloud-connected application design skills
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishnuViez&show_icons=true&theme=default&hide_border=true" alt="Vishnu's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuViez&layout=compact&theme=default&hide_border=true" alt="Vishnu's top languages" />
+</p>
+
+## Connect With Me
+
 - LinkedIn: `TODO: add LinkedIn URL`
 - Email: `TODO: add professional email address`
 - Portfolio: [GitHub Portfolio Repository](https://github.com/VishnuViez/portfolio) `TODO: replace with live portfolio URL if deployed`
