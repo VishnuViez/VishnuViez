@@ -72,10 +72,11 @@ A Kotlin Android application for generating reusable self-promotion or job appli
 
 ## GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VishnuViez&show_icons=true&theme=default&hide_border=true" alt="Vishnu's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuViez&layout=compact&theme=default&hide_border=true" alt="Vishnu's top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake.svg" />
+</picture>
 
 ## Connect With Me
 
