@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Vishnu - Software Engineer and Android Developer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="56%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" rx="10" fill="url(#g)"/>
+  <rect x="18" y="18" width="1164" height="104" rx="8" fill="none" stroke="#f87171" stroke-opacity="0.32"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Vishnu</text>
+  <text x="600" y="100" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#fee2e2">Software Engineer | Android &amp; Mobile Developer | MS Computer Engineering at UT Dallas</text>
+</svg>
