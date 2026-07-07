@@ -71,9 +71,9 @@ A Kotlin Android application for generating reusable self-promotion or job appli
 ![GitHub Activity](assets/headers/github-activity.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
+  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
 </picture>
 
 ![Connect With Me](assets/headers/connect-with-me.svg)
