@@ -68,14 +68,6 @@ A Kotlin Android application for generating reusable self-promotion or job appli
 - Learning Spring Boot and backend development fundamentals
 - Improving full-stack and cloud-connected application design skills
 
-![GitHub Activity](assets/headers/github-activity.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
-  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/VishnuViez/VishnuViez/output/github-snake-dark.svg" />
-</picture>
-
 ![Connect With Me](assets/headers/connect-with-me.svg)
 
 - LinkedIn: [linkedin.com/in/vishnuviez](https://www.linkedin.com/in/vishnuviez/)
