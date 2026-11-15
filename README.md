@@ -1,77 +1,47 @@
-![Vishnu - Software Engineer and Android Developer](assets/headers/profile-header.svg)
+<div align="center">
 
-I am a software developer with 5+ years of experience, strongest in Android development and mobile application engineering. My work focuses on building practical, user-focused applications using Java, Kotlin, Android SDK, REST APIs, local databases, and modern development tools.
+<!-- portrait:  python scripts/make_ascii_portrait.py <photo> --crop 470,160,930,690
+     info card: python scripts/make_info_card.py -->
 
-Currently, I am pursuing an MS in Computer Engineering at The University of Texas at Dallas while expanding my software engineering depth across Flutter, backend development, cloud-connected applications, and data structures and algorithms.
+<h3><code>vishnu@github ~ $ whoami</code></h3>
 
-![Technical Skills](assets/headers/technical-skills.svg)
+<table>
+<tr>
+<td valign="top"><img src="./assets/terminal/portrait.svg" width="370" alt="Vishnu Vinod, ASCII portrait" /></td>
+<td valign="top"><img src="./assets/terminal/info-card.svg" width="490" alt="Vishnu Vinod: Software Engineer, Android and full stack. Kotlin, Java, Python, Django, Flutter. M.S. Computer Engineering, UT Dallas." /></td>
+</tr>
+</table>
 
-| Area | Skills |
-| --- | --- |
-| Languages | Java, Kotlin, Dart, SQL |
-| Mobile Development | Android SDK, Jetpack components, Flutter basics |
-| Backend & APIs | REST APIs, Firebase, Spring Boot basics |
-| Databases | SQLite, SQL, Firebase Firestore |
-| Tools | Git, GitHub, Android Studio, IntelliJ IDEA, VS Code |
-| Core Concepts | Object-Oriented Programming, Data Structures, Algorithms, MVVM, API Integration, Debugging |
+<br>
 
-![Featured Projects](assets/headers/featured-projects.svg)
+<!-- real contribution data, refreshed daily by .github/workflows/update-contributions.yml -->
 
-### [Portfolio](https://github.com/VishnuViez/portfolio)
+<h3><code>vishnu@github ~ $ ./contributions.sh</code></h3>
 
-A Flutter-based personal portfolio project with responsive UI, theme support, animated sections, project cards, and profile-focused content.
+<img src="./assets/terminal/contributions.svg" width="860" alt="Vishnu's GitHub contribution graph, refreshed daily" />
 
-**Tech stack:** Flutter, Dart, Provider, Flutter Web
+<br>
+<br>
 
-**Highlights:**
-- Built with a structured Flutter project layout for web and mobile targets
-- Includes reusable sections for projects, skills, experience, and contact
-- Demonstrates Flutter UI development, animation packages, and state management
+<h3><code>vishnu@github ~ $ ./links.sh</code></h3>
 
-### [MovieProApp](https://github.com/VishnuViez/MovieProApp)
+<p><b>Software Engineer · Android · Full Stack · Embedded &amp; Edge AI</b></p>
 
-An Android application that displays popular movies using data from TMDB and follows an MVVM-oriented structure.
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishnuviez.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://vishnuviez.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishnuviez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuviez/)
+[![Email](https://img.shields.io/badge/Email-vishnuviez%40gmail.com-f5a524?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vishnuviez@gmail.com)
 
-**Tech stack:** Java, Android SDK, Retrofit, REST APIs, MVVM
+<br>
 
-**Highlights:**
-- Integrates with a remote movie API using Retrofit
-- Separates model, service, view, adapter, and ViewModel responsibilities
-- Demonstrates Android list rendering, API integration, and app architecture basics
+<h3><code>vishnu@github ~ $ ls ~/projects</code></h3>
 
-### [Flickr](https://github.com/VishnuViez/Flickr)
+| Project | What it demonstrates |
+|---------|----------------------|
+| [Cosmos](https://github.com/VishnuViez/Cosmos) | Self-hosted AI workspace: chat, agents, research, documents and local models |
+| [Dispute-Desk](https://github.com/VishnuViez/Dispute-Desk) | AI agent that helps bank analysts investigate card disputes (IBM SkillsBuild AI Lab) |
+| [smartpdf](https://github.com/VishnuViez/smartpdf) | PDF toolkit to edit, convert and protect files, with Gemini OCR and Stripe plans |
+| [Employee-Management-CRUD](https://github.com/VishnuViez/Employee-Management-CRUD) | Full-stack Node.js + MongoDB app with a REST API and Docker Compose |
+| [Clank Keys](https://github.com/VishnuViez/clank-keys-releases) · [site](https://clankkeys.web.app) | Mac app that plays mechanical keyboard sounds matched to how hard you type |
+| [MovieProApp](https://github.com/VishnuViez/MovieProApp) | Android app in Java on MVVM with Retrofit and the TMDB API |
 
-An Android photo browsing sample that retrieves and displays images from Flickr-style API data.
-
-**Tech stack:** Java, Android SDK, REST/HTTP requests, JSON parsing
-
-**Highlights:**
-- Implements API request handling, JSON parsing, and image loading flow
-- Uses adapter and ViewModel classes to organize UI data
-- Demonstrates mobile networking and media-list presentation
-
-### [SelfPromo](https://github.com/VishnuViez/SelfPromo)
-
-A Kotlin Android application for generating reusable self-promotion or job application messages.
-
-**Tech stack:** Kotlin, Android SDK
-
-**Highlights:**
-- Shows Kotlin-based Android development practice
-- Focuses on a clear utility workflow for repeated job/company outreach
-- Good candidate for screenshots and a stronger README
-
-![Currently Learning and Building](assets/headers/currently-learning.svg)
-
-- Strengthening data structures and algorithms for technical interviews
-- Building Flutter projects to broaden mobile development experience
-- Learning Spring Boot and backend development fundamentals
-- Improving full-stack and cloud-connected application design skills
-
-![Connect With Me](assets/headers/connect-with-me.svg)
-
-- LinkedIn: [linkedin.com/in/vishnuviez](https://www.linkedin.com/in/vishnuviez/)
-- Email: [vishnuviez@gmail.com](mailto:vishnuviez@gmail.com)
-- Portfolio: [vishnuviez.github.io/portfolio](https://vishnuviez.github.io/portfolio/)
-
-Open to software engineering, Android development, and mobile-focused engineering opportunities.
+</div>
